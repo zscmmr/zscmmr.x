@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zscmmr.github.io/sitemap.xml

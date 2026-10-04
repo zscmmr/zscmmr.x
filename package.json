@@ -1,0 +1,12 @@
+{
+  "name": "portoffolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "optimize:images": "node scripts/optimize-images.js",
+    "build": "npm run optimize:images"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
